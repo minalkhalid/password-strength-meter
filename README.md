@@ -29,6 +29,6 @@ A simple Password Strength Checker built with Streamlit and Python. This tool he
 
 🎨 UI Enhancements
 
-🎯 Styled Input Fields – Centered layout for better user experience,
-🎯 Custom Button Design – Green theme with hover effect.
+🎯 Styled Input Fields – Centered layout for better user experience
+🎯 Custom Button Design – Green theme with hover effect
 🎯 Expandable Feedback Section – Shows suggestions only if password is weak
